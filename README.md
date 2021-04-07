@@ -10,3 +10,4 @@ It is mounted on a 9x7 board.
 Schematics and pictures included in the repo.  
 [Schema](https://lucid.app/documents/view/42587524-fa41-46b3-8013-225d820a2a53)  
 [Control Board](https://lucid.app/documents/view/ddabf8b4-fe03-47e2-aecc-9b2c185f99e2)  
+[Video](https://youtu.be/vPhdNCejOg0)  
